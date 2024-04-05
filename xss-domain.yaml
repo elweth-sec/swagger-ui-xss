@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: XSS test
   description: |
-   <h1><u>pouet</u></h1>
+   <u>pouet</u>
