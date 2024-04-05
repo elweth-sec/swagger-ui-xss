@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: XSS test
   description: |
-   <?xml-stylesheet > <img src=x onerror="alert('DOMPurify bypassed!!!')"> ?>
+   <h1><u>pouet</u></h1>
