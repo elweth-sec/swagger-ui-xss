@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/elweth-sec/swagger-ui-xss/main/xss-cookie.yaml",
+    "url": "https://lab.elweth.fr/swagger/swagger-xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/elweth-sec/swagger-ui-xss/main/xss-cookie.yaml",
+            "url": "https://lab.elweth.fr/swagger/swagger-xss.yaml",
             "name": "XSS payload"
         }
     ]
