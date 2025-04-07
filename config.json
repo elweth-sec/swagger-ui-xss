@@ -1,8 +1,8 @@
 {
-    "url": "https://lab.elweth.fr/swagger/swagger-xss.yaml",
+    "url": "https://tqtpas.fr/swagger-xss.yaml",
     "urls": [
         {
-            "url": "https://lab.elweth.fr/swagger/swagger-xss.yaml",
+            "url": "https://tqtpas.fr/swagger-xss.yaml",
             "name": "XSS payload"
         }
     ]
